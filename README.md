@@ -1,5 +1,6 @@
 # Hospitality Data Analysis for Atliq Grands  
-
+## Dashboard link 
+[ https://app.powerbi.com/view?r=eyJrIjoiY2JjZmE5MDUtM2FiMC00Nzg0LWEzZTEtNTRkOTVkODNiMmI3IiwidCI6Ijg0OWE3OTUzLTQxNDktNDE4Yy05NDUyLTVlZjJiMDJhNmZlMCJ9 ]
 ## Project Overview  
 
 Atliq Grands is a well-known chain of five-star hotels across India. This project addresses the company's challenges in declining market share and revenue in the luxury/ business hotel segment due to increasing competition and ineffective management decisions.  
